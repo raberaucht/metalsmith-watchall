@@ -1,0 +1,18 @@
+{
+  "name": "metalsmith-watchall",
+  "version": "0.0.0",
+  "description": "Simple watcher plugin for metalsmith. Watches all files in the project directory, rebuilds all on file change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Benjamin Buch",
+  "license": "ISC",
+  "devDependencies": {
+    "gaze": "^0.6.4",
+    "chalk": "^0.5.1",
+    "tiny-lr": "0.0.9",
+    "tiny-lr-fork": "0.0.5",
+    "lodash": "^2.4.1"
+  }
+}
