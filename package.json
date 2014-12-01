@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "Simple watcher plugin for metalsmith. Watches all files in the project directory, rebuilds all on file change.",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
+  "private": true,
   "author": "Benjamin Buch",
   "license": "ISC",
   "devDependencies": {
